@@ -219,28 +219,7 @@ sarcasmDetection\
 - [ ] Dependency parsing integration
 - [ ] Multi-model ensemble predictions
 
-## Citation
 
-If you use this system, please cite:
-
-```bibtex
-@software{tamil_sarcasm_detection,
-  title = {Tamil Sarcasm Detection System},
-  author = {Your Name},
-  year = {2025},
-  description = {Deep learning system for sarcasm detection in Tamil news headlines}
-}
-```
-
-## License
-
-MIT License - Feel free to use and modify for your projects.
-
-## Contact
-
-For questions or issues, please open an issue in the repository.
-
----
 
 **Built with ❤️ using Streamlit, PyTorch, and Transformers**
 
