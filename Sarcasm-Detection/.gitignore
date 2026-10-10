@@ -1,0 +1,17 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Private datasets
+/dataset_comet.csv
+/dataset_depparsed.csv
+/Headlines_Tamil_Final_Merged.csv
+
+# Python and Streamlit artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/cache/
